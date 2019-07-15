@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ckl
+Build-Jdk: 10.0.1
+Implementation-Title: miaosha
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.org
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/miaosha/
+Created-By: Maven Integration for Eclipse
+
