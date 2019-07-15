@@ -1,0 +1,2 @@
+# miaosha
+关于秒杀场景的基于spring boot的demo,例如redis的库存预减，rabiitMQ消息队列用于高并发下单的处理 供大家学习和参考
